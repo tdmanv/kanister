@@ -4,6 +4,7 @@
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/kanisterio/kanister)](https://goreportcard.com/report/github.com/kanisterio/kanister)
 [![Build Status](https://travis-ci.org/kanisterio/kanister.svg?branch=master)](https://travis-ci.org/kanisterio/kanister)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftdmanv%2Fkanister.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftdmanv%2Fkanister?ref=badge_shield)
 
 
 A framework for data management in Kubernetes.  It allows domain experts to
@@ -53,3 +54,6 @@ issue](https://github.com/kanisterio/kanister/issues).
 
 ## License
 Apache License 2.0, see [LICENSE](https://github.com/kanisterio/kanister/blob/master/LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftdmanv%2Fkanister.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftdmanv%2Fkanister?ref=badge_large)
